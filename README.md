@@ -1,11 +1,11 @@
 # Credit Card Default Prediction
 
-MSc Artificial Intelligence — Practical Assignment
-Author: Yolanda N. Nkala · Supervisor: Dr. Abdelaziz Triki · Due: 10 June 2026
+MSc Artificial Intelligence Practical Assignment
+Author: Yolanda N. Nkala · Supervisor: Dr. Abdelaziz Triki · Submitted: 10 June 2026
 
 ## Overview
 
-An end-to-end supervised machine learning pipeline that predicts whether a credit card holder will default on their next payment. The project works through a binary classification problem on a heavily imbalanced dataset, prioritising the correct identification of defaulters (the minority class) over raw accuracy. The full workflow runs in a single Jupyter notebook covering exploratory analysis, leakage-safe data preparation, training of six models, evaluation, hyperparameter tuning, and interpretability.
+An end-to-end supervised machine learning pipeline that predicts whether a credit card holder will default on their next payment. The project works through a binary classification problem on a heavily imbalanced dataset, prioritising the correct identification of defaulters (the minority class) over raw accuracy. The full workflow runs in a single python notebook covering exploratory analysis, leakage-safe data preparation, training of six models, evaluation, hyperparameter tuning, and interpretability.
 
 ## Dataset
 
@@ -57,7 +57,7 @@ pip install numpy pandas matplotlib seaborn scipy scikit-learn category_encoders
 
 ## Deliverables
 
-- Jupyter notebook — full pipeline (Tasks 1–5).
+- Python notebook — full pipeline (Tasks 1–5).
 - Word report — written analysis with inline Harvard citations.
 
 ## References
